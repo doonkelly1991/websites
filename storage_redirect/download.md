@@ -12,4 +12,4 @@
 **Samsung users**
 
 Due to some unknown reasons of the Samsung device kernel, **Samsung devices can only use arm version**.
-:::
+:::11
